@@ -1,1 +1,1 @@
-# odin-recipes
+This projects buils a recipe website to test and practice my HTTP kowledge 
