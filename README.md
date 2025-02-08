@@ -1,1 +1,1 @@
-This projects buils a recipe website to test and practice my HTTP kowledge 
+This projects buils a recipe website to test and practice my html kowledge 
